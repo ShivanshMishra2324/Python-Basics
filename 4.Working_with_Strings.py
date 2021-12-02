@@ -4,8 +4,8 @@ print("Giraffe\nAcademy")
 print("\"") #after backward slash evereything is rendered literally
 phrase= "Giraffe Academy"
 #index   0123456789...
-print(phrase + " is fine") #concatnation i.e. apending string inside of another string
-#we can also usesome common functions to modify these strings
+print(phrase + " is fine") #concatnation i.e. appending string inside of another string
+#we can also use some common functions to modify these strings
 print(phrase.lower()) #will convert entire string into lower case
 print(phrase.upper()) #will convert entire string into upper case
 #to check whether a give nstrings is entirely  upper case or lower case we use following function:
